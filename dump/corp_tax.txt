@@ -1,0 +1,648 @@
+Title: Calculation of Council Tax Base and National Non-Domestic Rates Return NNDR1 202627.pdf
+
+URL Source: https://moderngov.lambeth.gov.uk/documents/s173347/Tax%20Base%20Report%202026-27.pdf
+
+Published Time: Tue, 17 Mar 2026 08:49:43 GMT
+
+Number of Pages: 10
+
+Markdown Content:
+CORPORATE COMMITTEE 29 JANUARY 202 6
+
+# Report title : Calculation of Council Tax Base and National Non -Domestic Rates Return 
+
+# (NNDR 1) 202 6/27 
+
+# Wards: All 
+
+# Portfolio: Acting Cabinet Member for Financ e: Councillor Judith Cavanagh 
+
+# Report Authorised by: Zena Cooke : Corporate Director of Resources and S151 Officer 
+
+# Contact for enquiries: Amaris Wong, Group Manager, Strategic Finance, 
+
+# awong1 @lambeth.gov.uk 
+
+# REPORT SUMMARY 
+
+This report sets out the stat utory information needed to set the Council ’s council tax base. It requests 
+
+approval to :
+
+ set the council tax base for 202 6/27 ; and 
+
+ delegate the authority of finalising the business rates tax base to the s151 O fficer, the Corporate 
+
+Director of Resources .
+
+The setting of both the Council Tax base and the Business Rates tax base are statutory obligations set 
+
+out in the Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012, in accordance 
+
+with the Rating (Property in Common Occupation) and Council Tax (Empty Dwellings) Act 2018. The 
+
+council tax base recommended in this report will be used in the calculation of the council tax that will be 
+
+recommend ed to Council in March 202 6. It will also be used by the Greater London Authority (GLA) to 
+
+work out their precept on the council tax. Preceptors must be notified by 31 January 202 6.
+
+# FINANCE SUMMARY 
+
+The Council Tax base recommended in this report will be used in the calculation of the level of c ouncil 
+
+tax for 202 6/27 that will be recommended to Council in March 202 6. Both Council Tax and National Non -
+
+Domestic Rates (NNDR ) income are a key resource within the General Fund budget .
+
+# RECOMMENDATIONS 
+
+1. To approve the calculation and the amount calculated as the Council Tax base for the year 
+
+202 6/27 at 116,594 (118 ,324 in 202 5/26 ) as set out in appendix 1(b). 
+
+2. To approve the schedule of discounts and premiums in paragraph 2.14 .
+
+3. To note the proposed changes to the Council Tax Support Scheme (CTS) have been assumed for 
+
+planning purposes in setting the tax base. Should a decision be taken not to proceed with the proposed changes to CTS scheme this would be addressed in the calculation of the taxbase f or 
+
+2027/28 and the shortfall would be reflected in updated M edium Term Financial Strategy (MTFS) 
+
+calculations .
+
+4. To delegate authority to the Corporate Director of Resources and S151 Officer to finalise and 
+
+approve the NNDR1 form setting out the business ra te tax base. 1. CONTEXT 
+
+1.1 The tax base represents the total taxable value of every residential property in Lambeth . Each year 
+
+Lambeth has to work out how much the product of next year’s band D council tax will be in order to 
+
+inform the budget required to fund its services. The band D tax is calculated by dividing the budget 
+
+requirement by the council tax base. The Greater London Authority also needs the tax base figure 
+
+to work out how much the y need to precept to pay for their services. The Council is required to 
+
+inform its preceptors of the Council Tax base by 31 January 202 6.
+
+1.2 The business rates tax base is calculated using the NNDR1 form set by the Ministry of Housing, 
+
+Communities and Local Government (MHCLG ). The report recommends that the authority to 
+
+finalise Lambeth’s submission is delegated to the S151 Officer , Corporate Director of Resources .
+
+1.3 The national policy changes that introduced the council tax reduction scheme came into effect on 1 
+
+April 2013 . Changes were made to increase the support to 100% maximum relief following the 
+
+impact of the Covid -19 pandemic. The consultation for the proposed scheme for 2026/27 ran from 
+
+3 November 2025 to 11 January 2026. 
+
+# 2. PROPOSAL AND REASONS 
+
+2.1 The calculation required to set the council tax base for 202 6/27 is in accordance with the Local 
+
+Authorities (Calculation of Council Tax Base) (England) Regulations 2012 and Article 3 of the 
+
+Localism Act 2011 (Commencement No 1 and Transitional Provisions) Ord er 2011. This is set out 
+
+in appendix 1(a). 
+
+2.2 There are several factors that impact the council tax base calculation . T hese are set out in the 
+
+sections below: 
+
+a. Council tax support scheme 
+
+b. Council tax collection rate 
+
+c. Council tax discounts, exemptions, and prem iums 
+
+d. Calculation of the council tax base 
+
+Council Tax Support scheme 
+
+2.3 The Council Tax base must be adjusted to include the impact of the local Council Tax Support 
+
+Scheme that has been adopted by the local authority. To meet this requirement , an adjustment 
+
+must be applied to each property band that accounts for the impact that the adopted scheme will 
+
+have before the property band is converted into its number of band D equivalent properties. 
+
+2.4 The proposed scheme for 2026/27 is a banded scheme w here the level of support is based on: 
+
+ Income bands where people are grouped into a band according to their income 
+
+ Household circumstance bands where households are grouped into a band according to 
+
+the make -up of the household 
+
+2.5 Each band has a set amount of support that people in that band will receive. Each household will 
+
+be in a specific band for both income and household circumstance. The proposed scheme has 
+
+been costed to ensure the scheme is affordable for the council, while targeting support to those we 
+
+know need it most. 
+
+2.6 The proposed banded scheme will also reduce the administration burden for both the council and 
+
+the claimants as changes to income within a band will not affect the level of support provided . This 
+
+should eliminate the need to recalc ulate , rebill and adjust any payment or instalment plans, as well as giving residents greater freedom to take on more paid work on an ad hoc basis without needing 
+
+to contact the council to reassess their level of support. 
+
+2.7 Consultation for the proposed sch eme ran from 3 November 2025 to 11 January 2026 and 
+
+received 442 responses. Analysis on the result of the consultation will be included in the Budget 
+
+Report to be considered by Cabinet in late February 2026 .
+
+2.8 The regulations do not provide an underlying calculation that must be used in calculating this figure 
+
+(Item Z ); rather, an authority must make its own assessment of the impact and include it in its 
+
+Council Tax base using an appropriate method. 
+
+2.9 Current estimates show that for 20 26/27 the proposed sc heme will reduce the overall council tax 
+
+base by 14,959 before adjustment for the collection rate .
+
+The Collection Rate 
+
+2.10 In calculating the tax base it is necessary to apply an estimated collection rate to the total number 
+
+of band D equivalent properties .
+
+2.11 For 202 5/26 , the estimated collection rate was set at 96.5% and we will continue to use this rate for 
+
+202 6/27 . The collection rate is the expected collection over the life of the liability and thus includes 
+
+amounts collected after the charge year through enforcement action. 
+
+2.12 If forecast collection for 202 6/27 (calculated in January 202 6) is greater than the estimated rate 
+
+set , there will be a forecast surplus to the Collect ion Fund which will be available to the G en eral 
+
+Fund for Budget Setting for 202 7/28 . If forecast collection is below the estimated rate , then the 
+
+Collection Fund deficit will reduce resources available for 202 7/28 .
+
+2.13 While many people pay for their council tax in instalments through the year, the liability is wholly 
+
+due from the start of the billing period . T herefore , the collection rate s below are calculated against 
+
+100% of the bill ed amounts , with the target collecti on rate for in year collection set at 92. 95%. The 
+
+collection rate to end of December 20 25 is 78. 27 % which is a small decrease when compared to 
+
+the same period in 202 4/25 (78.7 %). 
+
+Council tax discounts, exemptions, and premiums 
+
+2.14 The overall position effective from 1 April 202 6 is below: 
+
+Discount / Premium Type 
+
+Recommended 
+
+Discount / 
+
+Premium to be 
+
+Applied by 
+
+Lambeth 
+
+Range of Discount 
+
+/ Premium 
+
+Permissible 
+
+Discretionary 
+
+/ Statutory 
+
+Discounts 
+
+Single Person  25%  25%  Statutory 
+
+All except one person in household 
+
+disregarded  25%  25%  Statutory 
+
+All persons in household disregarded  50%  50%  Statutory 
+
+Second home  0%  0-100%  Discretionary 
+
+Class A (empty dwellings undergoing 
+
+major repairs)  0%  0-100% (for 1yr) 
+
+0-50% (after 1yr)  Discretionary Class C (vacant, unfurnished 
+
+dwellings)  0%  0-100% (for 6mths) 
+
+0-50% (after 6mths)  Discretionary 
+
+Premiums 
+
+Empty Homes Premium (1-5 years)  100%  0-100%  Discretionary 
+
+Empty Homes Premium (5 -10 years)  200%  0-200%  Discretionary 
+
+Empty Homes Premium (10+ years)  300%  0-300%  Discretionary 
+
+Second Home  100%  0-100%  Discretionary 
+
+2.15 Some discounts or premiums that are applied to council tax bills are statutorily required whereas 
+
+for others the billing authority has discretion over the level of discount or premium, if any, that is 
+
+applied. The level of discounts or premiums that are adopted directly impacts the Council Tax base 
+
+figure. 
+
+2.16 The Local Government Finance Act 2012 grants local authorities further discretion on the level of 
+
+exemptions and discounts that can be applied an d also introduced a premium that can be applied 
+
+to certain property types. These discounts and premiums are separate from the discounts adopted 
+
+in the localised Council Tax Support Scheme. A summary can be found below of these 
+
+discretionary powers and the recommended level of premium or discount to be adopted. 
+
+2.17 The recommended levels of the premiums and discounts outlined have been set after referring to 
+
+the Council’s Income and Debt Policy which has the strategic aim to maximise income collection 
+
+and minim ise levels of debt by the most fair, efficient, and cost -effective means whilst identifying 
+
+and providing support for our most vulnerable debtors. 
+
+2.18 It is also considered that these premiums and discounts will incentivise the supply of housing to the 
+
+borough as well as encouraging all landlords to re -let any empty properties as soon as possible 
+
+helping to improve the supply of homes in the borough .
+
+Empty Homes Premium 
+
+2.19 The Local Government Finance Act 2012 introduced the power for local authorities to charge a
+
+premium on long term empty dwellings . The Rating (Property in Common Occupation) and Council 
+
+Tax (Empty Dwellings) Act 2018 subsequently allowed councils to charge a 100% premium on 
+
+empty properties from 01 April 2019, a 200% premium on properties empty for at least 5 years 
+
+and, from 01 April 2021 a 300% premium on properties empty for at least 10 years . This was 
+
+further amended by the Levelling -up and Regeneration Act 2023, changing the definition of long -
+
+term empty dwellings in England which would allow councils to apply the premium to properties 
+
+that have been empty for one year, rather than starting after two years. 
+
+2.20 Applying a 100% premium would mean that for a property meeting the criteria the council tax liable 
+
+would be 200% of the council tax bill for a non -empty property of the same band. Details of 
+
+conditions that must be met for a property to be classed as empty can be found in section 12 of the 
+
+Local Gover nment Finance Act 2012. 
+
+Second Homes 
+
+2.21 From April 2013/14 billing authorities have had the power to set discounts of 0% – 100% of the full 
+
+rate of council tax on second homes. This will remain at 0% for 2026/27. 2.22 The Levelling -up and Regeneration Act 2023 also includes a discretionary provision to introduce a 
+
+100% Council Tax Premium for furnished properties periodically occupied (referred to as “second 
+
+homes”). This premium was implemented in Lambeth from 1 April 2025 and continue to be 100% 
+
+for 2026/27. 
+
+Empty Dwellings Undergoing Major Repairs (Class A) 
+
+2.23 From April 2013/14 billing authorities have had the discretion to apply a discount of 0% – 100% for 
+
+the first year that a property falls under this class. After 1 year a discount of 0% – 50% can be 
+
+applied indefinitely. This will remain at 0% for 2026/27. 
+
+Vacant, Unfurnished Dwellings (Class C) 
+
+2.24 From April 2013/14 billing authorities have been able to apply a discount of 0% – 100% for up to 
+
+the first 6 months that a property falls under this class. The aut hority also has the power to vary the 
+
+level of discount applied to different months within the first 6 months. After this the authority can set 
+
+a discount of 0% – 50% indefinitely. This will remain at 0% for 2026/27. 
+
+Other Discretionary Discounts 
+
+2.25 The Council has the power under the Local Government Act 2003 to implement other local 
+
+discounts. Discounts would be granted either to individuals or to classes of individuals. There are 
+
+financial implications to granting any discounts in addition to those set out above: not only would 
+
+there be an increase in the general level of Council Tax for other payers, but the complication and 
+
+cost of administering council tax would increase .
+
+Calculation of the Council Tax Base 
+
+2.26 Calculation of the Council Tax is governed by the Local Government Finance Act 1992 and various 
+
+regulations thereunder. In particular, Section 31B(1) of the Act (as amended) requires the basic 
+
+(Band D) tax to be calculated by applying the formula: The Council's "council tax requirement" 
+
+divided by The Council’s “Council Tax Base” 
+
+2.27 For council tax purposes properties are placed in different property ‘bands’ depending on the value 
+
+of the property. The banding is determined by the Valuation Office Agency although it is subject to 
+
+valuation appeals. Th e band that a property is in is used to determine the council tax liability for 
+
+that property. 
+
+2.28 The proportions applicable to the various Council Tax bands (the “basic” band being D) are as 
+
+follo ws: 
+
+Band  A B C D E F G H
+
+Proportion  6/9  7/9  8/9  9/9  11/9  13/9  15/9  18/9 
+
+2.29 The Council’s basic tax figure is calculated in respect of Band D. Band A properties therefore pay 
+
+6/9 of the basic tax, Band B 7/9 of the basic tax and so on up to Band H where the tax is 18/9 of or 
+
+twice the tax at Band D. 
+
+2.30 A calculation of the total number of dwellings net of discounts needs to be made for each of the 
+
+above bands. This takes into account the number of dwellings on the valuation list as at 30 
+
+November 202 5, the estimated number of dwellings that are exempt, attract disabled relief or 
+
+attract discounts and estimated changes in the status of the dwellings during 202 6/27 .2.31 Appendix 1 (a) sets out the formula that must be used to calculate the Council Tax base for each 
+
+band as required in the Local Authorities (Ca lculation of Council Tax Base) (England) Regulations 
+
+2012. The formula includes adjustments to take into account an assessment of the likely changes 
+
+in the number of band D equivalent chargeable dwellings during the year along with an adjustment 
+
+for the nu mber of dwellings expected to be re -banded following appeals against valuation. 
+
+2.32 The calculation of the tax base is summarised below and detailed in appendix 1(b) :
+
+Total of the relevant amounts (Appendix 1(b) line 8)  120, 823 
+
+Estimated collection rate  96.50% 
+
+202 6/27 Council Tax Base  116,594 
+
+National Non -Domestic Rates Tax Base 
+
+2.33 The NNDR1 statistical return issued by DLUHC is used to report the estimate of the business rate 
+
+base to the government . NNDR1 will set the estimated business rate base for the following year 
+
+with any variation between estimate and actual being dealt with through the surplus or deficit on 
+
+the Collection Fund .
+
+2.34 The Council’s share of retained business rates is determined by the government. For 202 6/27 
+
+Lambeth’s share will be 30%, GLA retaining 37% and Central Government retaining 33%, the 
+
+same as for 202 5/26 .
+
+2.35 The NNDR1 return will be authorised by the S151 Officer and inform the Council’s preceptors of 
+
+the Business Rates tax base by 31 January 202 6 as required by statute .
+
+# 3. FINANCE 
+
+3.1 The Council Tax base recommended, if approved, will be used in the calculation of the level of 
+
+Council Tax that will be recommended to Council on 4 March 202 6.
+
+# 4. LEGAL AND DEMOCRACY 
+
+4.1 The body of the report contains details of the legislative basis for the calculation of the Council Tax 
+
+base .
+
+4.2 By virtue of Part IV D (c) of the Council’s Constitution , Corporate Committee can approve the 
+
+Council Tax base and the Business Rates Tax Base on behalf of the Council .
+
+4.3 The council is required to calculate the amount which will be its council tax base for the next 
+
+financial year by 31 January of the preceding financial year (Section 31B of the Local Government 
+
+Finance 1992 Act (as amended) and the Local Authorities (Calculation of council tax Base) 
+
+Regulations 2012). The Localism Act 2011 has made amendments to the 1992 Act .
+
+4.4 The calculation of the council tax base may, but no longer must , be approved by full council. It 
+
+may be approved by a council committee or sub -committee, in this case Corporate Committee as 
+
+set out above by the Executive (Section 84 of the Local Government Act 2003 and Regulation 4(9) 
+
+to (11) of the Local Authorities (Functions and Responsibilities) (England) Regulations 2000 (as 
+
+amended)) .
+
+4.5 There were no further comments from Democratic Services. 5. CONSULTATION AND CO -PRODUCTION 
+
+5.1 This report contains technical calculations for the council’s tax base for 202 6/27 as stipulated by 
+
+legislation. 
+
+# 6. RISK MANAGEMENT 
+
+6.1 The Council Ta x base is set using a prescribed formula set down in legislation . It is used to inform 
+
+financial planning and the budget setting process. 
+
+6.2 This council taxbase determination reflect s the CTS scheme that was consulted on from 3 
+
+November 2025 to 11 January 2026. This ensures that any additional revenues from the proposed 
+
+scheme can be used in 202 6-27 .
+
+6.3 There is a risk that the taxbase will be overstated, if the proposed scheme is not agreed, This 
+
+would be dealt with through the collection fund and the taxbase would be revised accordingly for 
+
+202 7-28 .
+
+# 7. EQUALITIES IMPACT AS SESSMENT 
+
+7.1 The report contains the calculation of the Council Tax base for 202 6/27 as prescribed by 
+
+legislation. 
+
+7.2 There is no direct impact on the community as a result of this business activity. The resultant 
+
+impact s on revenue budgets are addressed via the savings proposal s and budget setting process. 
+
+# 8. COMMUNITY SAFETY 
+
+8.1 None .
+
+# 9. CHILD FRIENDLY LAMBE TH 
+
+9.1 There is no direct impact on the Lambeth’s children and young people as a result of this business 
+
+activity. The resultant impacts on revenue budgets are addressed via the savings proposals and 
+
+budget setting process .
+
+# 10. ORGANISATIONAL IMPLI CATIONS 
+
+Environmental 
+
+10.1 None .
+
+Health 
+
+10.2 None .
+
+Staffing and accommodation 
+
+10.3 None .
+
+Responsible Procurement 
+
+10.4 None. 
+
+Good Quality Jobs with Fair Pay and Decent Working Conditions 
+
+10.5 None .
+
+Quality Apprenticeships, targeted Employment for Lambeth residents and Lambeth Priority Group 10.6 None .
+
+Reduce Emissions: Lambeth Council has a commitment to being Zero Carbon by 2030 
+
+10.7 None .
+
+Single Use Plastics 
+
+10.8 None .
+
+Positive Health and Wellbeing 
+
+10.9 None .
+
+Other Offers (Innovation) 
+
+10.10 None 
+
+# 11. TIMETABLE FOR IMPLEM ENTATION 
+
+11.1 These decisions must be taken by Corporate Committee before 31 January 202 6 in order to aw 
+
+statutory notice to be given to precepting authorities (joint boards with the power to instruct another 
+
+local authority to collect an amount from Council Tax on its behalf). AUDIT TRAIL 
+
+# Name and Position/Title  Lambeth Directorate  Date Se nt  Date 
+
+# Received 
+
+# Comments in 
+
+# paragraph: 
+
+Councillor Judith Cavanagh  Acting Cabinet Member 
+
+for Finance 
+
+06/01/2026  15/01/2026 
+
+Zena Cooke, Corporate 
+
+Director of Resources and 
+
+S151 Officer 
+
+Resources  05/01/2026  16/01/2026  Throughout 
+
+Jac kie Moylan , Interim 
+
+Director of Finance 
+
+Resources  31/12/2025  05/01/2026  Throughout 
+
+Andrew Pavlou , Principal 
+
+Lawyer (Governance) 
+
+Resources  31/12/2025  16/01/2026 
+
+Chloe Morris , Democratic 
+
+Services 
+
+Resources  31/12/2025  06/01/2026  Throughout 
+
+# REPORT HISTORY 
+
+Original discussion with Cabinet Member  N/A 
+
+Report deadline  16.01.2 6
+
+Date final report sent  16.01.26 
+
+Part II Exempt from Disclosure/confidential 
+
+accompanying report?  No 
+
+Key decision report  No 
+
+Date first appeared on forward plan  N/A 
+
+Key decision reasons  N/A 
+
+Background information 
+
+Local Authorities (Calculation of Council Tax Base) 
+
+(England) Regulations 2012 
+
+Local Government Finance Act 2012 
+
+Localism Act 2011 
+
+Local Government Finance Act 1992 
+
+Local Government Finance Act 1988 
+
+Rating (Property in Common Occupation) and 
+
+Council Tax (Empty Dwellings) Act 2018 
+
+Levelling -up and Regeneration Act 2023 
+
+Appendices  Appendix 1 – Calculation of the Council Tax Base 
+
+202 6/27

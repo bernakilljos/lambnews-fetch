@@ -1,0 +1,2388 @@
+Title: Developer Contributions.pdf
+
+URL Source: https://moderngov.lambeth.gov.uk/documents/s173205/FINAL%20OSC%20Developer%20Contributions%20CIL%20NCIL%20and%20s106%20FY25-26%20-%2026.01.26.pdf
+
+Published Time: Mon, 09 Feb 2026 13:18:33 GMT
+
+Number of Pages: 31
+
+Markdown Content:
+OVERVIEW AND SCRUTINY COMMITTEE, 26 JANUARY 2026 
+
+Report title : Developer Contributions : Community Infrastructure Levy (CIL) and Section 106 
+
+Planning Obligations (s106) 
+
+Wards: All 
+
+Portfolio: Cabinet Member for Housing, Investment and New Homes , Councillor Danny 
+
+Adilypour 
+
+Report Authorised by: Nabeel Khan, Corporate Director of Growth and Environment 
+
+Contact for enquiries: Matthew Di bben , Director of Regeneration, Growth & Capital 
+
+Investment  mdibbe n@lambeth.gov.uk 
+
+REPORT SUMMARY 
+
+This report provides an overview of the different types of developer contributions used in Lambeth -
+
+namely the Community Infrastructure Levy (CIL), Neighbourhood CIL (NCIL) and Section 106 planning 
+
+obligations (s106) along with the legislative frameworks that govern their use . In addition to providing 
+
+regulation and policy context, this report sets out the current financial position regarding developer 
+
+contributions, outlines recent monitoring and enforcement activity and i ncludes case studies that 
+
+demonstrate how contributions are delivering tangible outcomes for communities. It also clarifies the 
+
+remit of the Council’s CIL/s106 and Development Infrastructure teams, explains the governance 
+
+arrangements that underpin monito ring and allocations, and highlights opportunities to further strengthen 
+
+transparency, improve delivery, and ensure alignment with the Council’s Growth Plan , Lambeth Local 
+
+Plan , Infrastructure Delivery Plan and Borough Plan. 
+
+FINANCE SUMMARY 
+
+This report provides an overview of the development contributions received by the Council as of 
+
+December 2025, along with projections of possible contributions in future years. It should be noted that 
+
+these projections are indicative and subject to change , influenced by broader economic conditions, 
+
+variations in development activity, and potential changes in national policy or legislation. 
+
+RECOMMENDATIONS 
+
+1. Note the contents of the report, including the legislation that governs the spending of developer 
+
+contributions, along with improvements that have been delivered in the monitoring and 
+
+enforcement over the past five years and to note the risks and difficult ies associated with 
+
+spending of some types of s106 obligations. 
+
+2. To provide any comments/recommendations arising from this report .1. CONTEXT 
+
+Understanding Developer Contributions: types and principles of spending 
+
+Overview 
+
+1.1 The Council’s recently publish ed Lambeth Growth Plan helps to build investor confidence and 
+
+highlights the borough’s strategic location, excellent transport connectivity - including direct links 
+
+nationally across the country via Vauxhall and Waterloo, one of the UK’s busiest stations - and its 
+
+continued appeal to residents, employers and visitors. 
+
+1.2 Growth and investment in the borough bring developer contributions through the Planning process 
+
+– mechanisms by which local authorities ensure that new development helps deliver the 
+
+infrastructure and services the community needs .
+
+1.3 These developer contributions fall into two main categories , and differ in how they operate, what 
+
+they fund, and the certainty they provide to developers: 
+
+Community Infrastructure Levy (CIL) is a non -ne gotiable charge on new development, set 
+
+through a published charging schedule. CIL is applied in line with national legislation and the local 
+
+charging schedule, with charges based on the size and type of project. This provides a transparent 
+
+and consistent system for developers – charges are fixed in advance and applied uniformly. 
+
+ CIL is used to support infrastructure projects which benefit the whole borough. 
+
+ Neighbourhood CIL (NCIL), a subset of CIL, funds local projects and gives communities a 
+
+direct rol e in shaping investment. 
+
+Section 106 (s106) planning obligations are negotiated legal agreements on a case -by -case 
+
+basis tied to specific planning permissions. 
+
+ Whilst some formula -based s106 contributions are secured, s106 focuses on making a 
+
+particular d evelopment acceptable by addressing the specific impacts it has on local services 
+
+and infrastructure. 
+
+1.4 CIL and s106 d eveloper contributions help manage growth and deliver Lambeth’s Borough Plan, 
+
+Growth Plan, and Local Plan priorities. Recent years have s een developer contributions deliver 
+
+significant benefits across Lambeth. For example: 
+
+ CIL funding has supported the Highways Improvement Programme, resurfacing hundreds of 
+
+roads and footways and installing Sustainable Drainage Systems to improve climate 
+
+resilience. 
+
+ The South Bank Spine Route project is transforming public spaces to priorit ise walking and 
+
+cycling and enhance accessibility for 30 million annual visitors. 
+
+ S106 and NCIL funding has enabled strong employment outcomes, with 1,402 residents 
+
+supported into jobs, training or apprenticeships in 2024/25 .
+
+ The Community Connections Fun d has backed over 40 diverse local projects with wide 
+
+ranging impacts relating to wellbeing, safety , culture , and economic and social inclusion ,
+
+addressing borough plan priorities through improved community infrastructure .
+
+ Affordable housing delivery includes 236 homes secured through Oval Village and 46 new 
+
+social -rented homes at Fenwick South —the first new Council homes in a generation. 
+
+1.5 Clear reporting on these mechanisms is essential to ensure transparency and accountability in how 
+
+growth benefits are shared across the borough . E ach year the Council is required to publish an Infras tructure Funding Statement (IFS) which provides this information. The latest Lambeth IFS for 
+
+the year 2023/24 can be found in the background documents section at the end of this report. The 
+
+IFS for 2024/25 will be published by end of 2025/26. 
+
+1.6 The importance of infrastructure planning is critical. Receipts from developer contributions under 
+
+CIL part fund some of the infrastructure that the Council identifies to support gr owth or, in the case 
+
+of s106, mitigate for the impact of a development. The governance and prioritisation of spend 
+
+needs to reflect growth identified through the Local Plan as well as infrastructure identified in the 
+
+Infrastructure Delivery Plan (IDP). 
+
+1.7 Negotiations for obligations secured through s106 sits within Planning who work with Legal to draw 
+
+up the agreements , in collaboration with other parts of the Council .
+
+1.8 The Council’s monitoring, collecting, enforcing CIL and s106 receipts and non -financial s106 
+
+obligations , sits with two specialist teams :
+
+ The CIL/s106 team is responsible for calculating, monitoring, and enforcing financial 
+
+obligations secured and providing compliance for allocations. 
+
+ The Development Infrastructure team oversees non -financial obligations, ensuring that 
+
+obligations such as on -site affordable housing , highway works, or sustainable transport 
+
+measures are delivered in line with s106 planning obligations .
+
+1.9 The spending and delivery of infrastructure projects sits across a number of different services 
+
+areas across the Council. 
+
+1.10 At the present time, following a Cabinet decision making process in July 2025, the Council 
+
+announced a pause and review of its capital investment programme. This decision enabled the 
+
+Council to reassess its capital commitments in light of financial pressures and anticipated changes 
+
+to national funding formulas. The capital investment programme review is ongoing. The 
+
+governance arrangements for the prioritisation of spend in line with th e Local and Borough Plans 
+
+and IDP is being reviewed as part of this process. 
+
+Principles for s pending CIL and s106 monies 
+
+1.11 When spending receipts from Developer contributions , in line with legislation , it is important to 
+
+ensure that funds are used in line with the purpose for which they were secured .
+
+ s106 contributions must be spent in accordance with the terms of the s106 agreement – a
+
+legally binding document . Each obligation carries a descriptive covenant, typically tied to 
+
+specific developments and/or within the locality and are intended to mitigate the direct 
+
+impacts of that development . This means contributions are freq uently tied to commitments 
+
+and funding to enhance or provide new local infrastructure on site or in the near vicinity of the 
+
+development to which the s106 relates .
+
+ CIL offers more flexibility and can be allocated borough -wide (Lambeth treats the whole 
+
+borough as ‘local’ ). Spending must still align with the overarching purpose of supporting 
+
+infrastructure that enables and sustai ns growth , outlined in the Local Plan and supporting 
+
+Infrastructure Delivery Plan (IDP) . This includes both new infrastructure and improvements to 
+
+existing facilities, such as schools, parks, health centres, and transport networks. CIL cannot 
+
+be used to fund Affordable Housing. 1.12 Local authorities are expected to make spending decisions that reflect both local and borough -wide 
+
+infrastructure needs priorities . The Council is required to engage with communities to determine 
+
+how NCIL sh ould be spent .
+
+2. DELIVERING THE COUNCIL’S AMBIT IONS – ALLOCATIONS, SPEND AND CASE 
+
+STUDIES 
+
+How allocations are made 
+
+2.1 It is important to clarify that the team does not make CIL and s106 funding decisions. The team’s 
+
+function is limited to ensuring compliance with CIL and s106 regulations and covenants. This 
+
+includes identifying appropriate CIL or s106 obligations for projects already approved through 
+
+ODDR or CMDDRs, or for projects seeking ODDR or CMDDR app roval. Some of the major 
+
+decision reports relating to CIL and s106 expenditure relating to other service areas are referenced 
+
+in the sections below. 
+
+2.2 The term allocation is used in this report to refer to the process by which teams within the Council 
+
+pro gress formally approved reports or seek drawdowns against previously agreed decisions via 
+
+these reports. 
+
+2.3 All CIL/s106 spend and related decision reports need to refer to the Local Plan, IDP and the 
+
+Capital Programme to receive Developer Contributions. In summary, the team facilitates the lawful 
+
+and transparent application of funds but does not make decisions on project allocation .
+
+Delivering benefits to Lambeth through CIL and s106 
+
+2.5 In addition to delivery of locally specific s106 covenants, s ome of the largest allocations are to 
+
+borough -wide programmes of activity , which also have positive, localised impacts . A range of 
+
+examples highlighting how CIL and s106 is utilised are provided below .
+
+2.6 Highways Improvement Programme (HIP) : CIL has provided £11.24m of funding for the 
+
+Council’s borough -wide HIP over the past 5 years . Lambeth maintains 354 km of roads and 710 
+
+km of footways, plus 29 km of cycleways. The HIP delivers resurfacing of roads and footways 
+
+across the borough to tackle pot holes, trip hazards, and improve accessibility. The programme has 
+
+targeted the most deteriorated sections using a risk -based approach and is agreed annually by the 
+
+Council .
+
+2.7 With CIL funding for the HIP, hundreds of roads have been resurfaced across all w ards, including 
+
+major routes like Waterloo Road, Brixton Station Road, Tulse Hill, and Clapham Manor Street. 
+
+2.8 The HIP also plays a role in the delivery of the council’s Climate Action Plan. For example, the HIP 
+
+has delivered the installation of Sustainabl e urban Drainage Systems (SuDS) in locations including 
+
+Norwood Park, St Matthew’s Estate and Clarmont Estate. 
+
+2.9 Safety is another key component of the HIP. For example, £2m has been spend on Hostile Vehicle 
+
+Mitigation (HVM) works across 10 sites Queen’s Wa lk – the longest piece of HVM in the country 
+
+2020 -2022. 
+
+2.10 CIL has also played is scoping, designing and delivering major public realm improvements such as 
+
+the ‘ South Bank Spine Route ’ project – an £8 million regeneration scheme designed to transform 
+
+the ne twork of streets between Jubilee Gardens and Bernie Spain Gardens, including Upper 
+
+Ground and Belvedere Road. 2.11 The project aims to prioritise walking, wheeling, and cycling, improve public spaces, and make the 
+
+area more climate resilient through measures such as new green spaces, sustainable drainage 
+
+systems, and traffic restrictions. These improvements are helping to create more accessible, 
+
+inclusive, and safe public spaces for residents, businesses, and the 30 million annual visitors to the 
+
+South Bank. 
+
+2.12 Following completion of Phase 1 in 2022 and trial interventions in 2023, Phase 2 construction began 
+
+in September 2024. This phase focuses on Concert Hall Approach, Sutton Walk, and Belvedere 
+
+Road. Key works include the p edestrianisation of Concert Hall Approach (with delivery access 
+
+maintained) ; n ew seating and planting, plus decluttering and re -paving for accessibility ; z ebra 
+
+crossing on Belvedere Road to improve pedestrian safety .
+
+2.13 Skills and Employment. s106 and NCIL has been a major funding source helping the Council and 
+
+its partners to deliver positive skills and employment outcomes for local people. For example, 
+
+Lambeth’s Infrastructure Funding Statement for 23/24 highlighted £707,564 h ad been receipted 
+
+from employment and s kills s106 covenants in that financial year. In the subsequent financial year 
+
+24/25, w ith s106 skills and employment funding and other sources of external funding secured by 
+
+Lambeth (e.g. GLA grants), the Council supported: 
+
+ 1,402 residents to achieve ed ucation, training and employment outcomes following support 
+
+provided by the council .
+
+ Of which, 903 secured a job, 437 progressed into further education and training, and 62 
+
+secured apprenticeships .
+
+2.14 The Council’s skills and employment programmes have pe rformed exceptionally well in supporting 
+
+residents from Black and Multi -Ethnic communities. Over 77% of Lambeth residents supported 
+
+have been from Black, Asian and Multi -Ethnic Communities, and 58.97% are Black/Black British. 
+
+2. 15 The Council’s skills and employment projects support residents into opportunities related to the 
+
+constructive of new developments in the borough, alongside other programmes which help people 
+
+to secure roles in other parts of the economy, including the growth sectors which the Cou ncil has 
+
+prioritised for focus in the Lambeth Growth Plan. All skills and employment projects are focussed 
+
+on residents who are more likely to face barriers to skills and employment. 
+
+2.16 The Council publishes a Cabinet Member Decision Report (CMDDR) annually which sets out the 
+
+detail of s106 employment and skills expenditure and delivery. Additionally, during the Covid -19 
+
+pandemic as unemployment more than doubled in a short space of time, on 23 November 2020 the council made an NCIL allocation of £5 m towards skills and employment pr ogrammes over 
+
+multiple years which have supported over 3,000 residents to enter into employment, education and 
+
+training. 
+
+2.17 Community Connections Fund: In March 2022 the Council approved the use of £4m of NCIL for 
+
+establishing the Community Connections Fund to support local groups to deliver projects and 
+
+services in the Neighbourhood Areas of North Lambeth, Waterloo, Brixton, and Stockwell over the 
+
+next three years. The Fund encourages and supports community -led initiatives that address key 
+
+priorities identified by local people and responds to the ambitions set within the Lambeth 2030: Our 
+
+Future, Our Lambeth Borough Plan. Successful proposals support the ambitions of the Borough 
+
+Plan, as well as showing support within the community, addressing an existing local need, benefit 
+
+diverse communities and representing value for money. 
+
+2.18 The Community Connections Fund is delivered in phases, with successful groups awarded f unding 
+
+to deliver their local projects through a grant agreement. So far there have been two funding 
+
+rounds which have distributed just under £2.5 million to over 40 local organisations. 
+
+2.19 Through Round 1 13 grants were awarded to community organisations , totalling £811,174. A
+
+launch event was held to introduce organisations and their projects, with subsequent networking 
+
+events held to hear project updates and promote networking and connections between funded 
+
+organisations. Funded projects took place acro ss Brixton (3 projects), North Lambeth (3 projects), 
+
+Stockwell (4 projects) and Waterloo (3 projects). Grant values were between £10,000 and 
+
+£200, 000. 
+
+2.20 Round 2 is providing funding to 31 organisations working across Lambeth, with grants totalling 
+
+££1,504,503. Funded projects are taking place in every ward across Brixton ( 11 ), North Lambeth 
+
+(8), Stockwell ( 7) and Waterloo ( 5). The second round introduced smaller development grants of 
+
+up to £10,000, which has increased the number of projects funded and enabled engagement with 
+
+less established organisations. 
+
+2.21 Some of the specific projects supported through rounds 1 and 2 of the Community Connections 
+
+Fund are highlighted below:  Black Prince Trust (Kennington) - Total refit of Commercial Kitchen sp ace. Renovation of 
+
+front -of -house café. 12 months’ rent to support the introduction of a new community -focused 
+
+charity tenant. Free meal service and supported catering learning opportunities provided by 
+
+charity tenant. (Round 1) 
+
+ Oasis Adventure Playground and Triangle Adventure Playg round (North Lambeth) : two 
+
+playground improvement projects providing a higher safety fence; sensory elements created 
+
+by young people; lunchtime adventure play sessions. (Round 1) 
+
+ Garden Museum (Waterlo o & Southbank ) – Creation and maintenance of a medicinal healing 
+
+garden in at Old Paradise Gardens which give s residents the opportunity to help build the 
+
+garden, learn new skills, and connect communities. (Round 1) 
+
+ Papa’s Park (Brixton North ) funding for the park community building - a resource housing a 
+
+hall, café, and toilets to provide an amenity for the local community.  The project  creates  a
+
+safe and welcoming space  for  people from diverse backgrounds  to  mix and play together, 
+
+fostering n ew relationships and strengthening community cohesion . (Round 1) 
+
+ Various (Stockwell) – across 4 funded projects, two disused spaces were transformed into 
+
+free podcast and live -streaming studios for local young people, 19 events at Myatt’s Field 
+
+Park were supported with over 2,200 attendees, and Stockwell Partnership deliver ed 
+
+community sessions for 1,285 participants. Through two Community Living Rooms, 847 
+
+people accessed health and wellbeing services, and free energy and water -saving devices 
+
+were distri buted at pop -up climate events. (Round 1) 
+
+ Empathy Museum (Brixton Windrush) - Windrush Untold Stories is a Brixton exhibition 
+
+sharing Windrush Generation stories through portraits, audio, and youth photography. The 
+
+exhibition activated Windrush Square over the Summer , and its success has led to it being 
+
+shown in other locations including the Home Office. (Round 2) 
+
+ Van Gogh House (Stockwell East) - Van Gogh House has received development funding to 
+
+deliver the Festival of Encounters in September 2025 - a free, hyperlocal festival of 40 talks 
+
+and public events that took place across 32 venues in northern Brixton. Over two thousand 
+
+people attended the festival across 20 venues, and over two hundred joined online, not 
+
+including those who encountered public performances at street level. (Round 2) 
+
+ Breathe Arts Health Research (Stockwell) has been funded to deliver Breathe Melodies a 10 -
+
+week singing programme for mothers with babies aged 0 -9 months to provide a safe space 
+
+for mother and babies and support mental health. Sessions are delivered in Liz Atkinson 
+
+Children's centre and Jubilee Children’s Centre and they specifically target mothers suffering 
+
+with low mood and depression as identified through their referral form. They aim to engage 
+
+120 mothers in Brixton and Stockwell .
+
+ Phi lharmonia (Waterloo & South Bank) - Hear and Now is an established intergenerational 
+
+community programme. It bring s together carers, people living with dementia and memory 
+
+loss, and young musicians from grassroots community organisations. To support this, the 
+
+Philharmonia will work with Arts for Dementia, who will act as referral delivery partner. 
+
+(Round 2) 
+
+ No Going Back (North Lambeth) - They work with individuals who have left the prison system 
+
+to gain employability skills and re -enter the workforce, they provide this through workshops 
+
+and wrap around support which also supports their families. They host job fairs and take 
+
+referrals from statutory bodies and since conception 60% of those refer rals have engaged 
+
+with the programme . (Round 2) 
+
+ 13 organisations across the four neighbourhoods were awarded Development Grants to run 
+
+pilot projects, improve internal processes, increase their team’s capacity or explore partnership opportunities. Two of these organisations have used this funding in le veraging 
+
+further funding to expand their work. 
+
+Affordable Housing Delivery 
+
+2.22 S106 is also the legal mechanism through which affordable housing is secured in the borough. 
+
+2.23 Affordable housing is negotiated at the planning application stage by the Planning service , with 
+
+on -site provision prioritised. For example, a significant volume of affordable housing has been 
+
+secured and delivered through the Oval Village sc heme :
+
+2.24 The Oval Village scheme is a major mixed -use redevelopment in Lambeth, delivering 738 new 
+
+homes across multiple phases. Of these, 236 homes (approximately 35% by habitable room) are 
+
+secured as affordable housing through planning obligations. The tenure mix includes social rent 
+
+and shared ownership, with 147 social -rented units and 89 sha red ownership units on the Oval 
+
+Gas Works site, and a further 115 social -rented and 58 shared ownership units on the 
+
+Kennington Lane site. 
+
+2.25 Delivery is phased, with completions of several buildings achieved between late 2022 and 2025 
+
+with full build -out ex pected by 2026. This development represents one of Lambeth’s largest 
+
+regeneration projects, contributing significantly to the borough’s affordable housing pipeline and 
+
+supporting strategic objectives for mixed -tenure communities. 
+
+2.26 Where on -site delivery i s not feasible, or off -site options better meet local needs, alternatives such 
+
+as off -site units or financial contributions may be considered . This is particularly for smaller 
+
+schemes where limited units or shared access may deter Registered Providers (RPs ).
+
+2.27 RPs are organizations in England who are registered to provide social housing. Historically, only 
+
+non -profit making organizations could be registered as providers of social housing. The Housing 
+
+and Regeneration Act 2008 (HRA 2008) allowed profit mak ing organizations to become providers 
+
+to encourage competition and increase the supply of affordable housing. The Regulator of Social 
+
+Housing manages the statutory register of social housing providers (the register) which lists 
+
+private (non -profit and prof it making) providers and local authority providers. RPs are required to 
+
+let housing at rent compliant levels and to ensure that it is let to eligible tenants. 
+
+2.28 Lambeth applies the London Plan’s two -route threshold approach:  Fast Track Route : Applies to schemes with at least 35% affordable housing (or 50% on 
+
+public/industrial land), policy -compliant tenure, and no public subsidy. An early viability 
+
+review is triggered if substantial implementation doesn’t occur within 2 years. 
+
+ Viability Tested Route : Required for schemes below the threshold or those proposing off -
+
+site provision/payment in lieu (for developments over 25 units). These must submit a 
+
+viability assessment and are subject to both early and late -stage reviews 
+
+2.29 At application st age, viability assessments are scrutinised by specialist consultants appointed by 
+
+the Council. Where required, early and late -stage reviews are secured through s106 agreements 
+
+and monitored by the Development Infrastructure team. These reviews follow the same scrutiny 
+
+process as the initial assessment. If scheme viability improves, developers must deliver 
+
+additional on -site affordable housing or make a payment in lieu. A ‘cascading ’ mechanism may 
+
+be included in s106 agreements to secure payments in lieu where a developer is unable to 
+
+secure an RP . This is subject to the developer demonstrating to the council that reasonable 
+
+efforts have been made. 
+
+2.30 Affordable Housing Payments in lieu funds can be used by the Council to deliver affordable 
+
+housing including through the New Homes Programme. An example of recent project is the 
+
+Fenwick South Redevelopment allocation :
+
+2.31 Using £720k from an s106 Affordable Housing Payment in Lieu, Lambeth partnered with 
+
+Transport for London to deliver 46 new social -rented homes as part of the Sainsbury’s Nine Elms 
+
+redevelopment. These homes represent the first new Council housing in a generation and play a 
+
+key role in regenerating the Fenwick Estate, enabling resident decanting an d supporting phased 
+
+delivery of additional homes. 
+
+Locally specific s106 benefits – other examples 
+
+2.32 stated in the report, s106 agreements include site -specific mitigations. Some examples of very 
+
+localised benefits secured in close proximity to development are provided below: London Eye South Bank Clean Team 
+
+.
+
+Funding Sources: London Eye Annual s106 contribution, South Bank BID, South Bank 
+
+businesses and other organisations 
+
+Amount: £145k London Eye s106 contribution in 2025/26. Total annual cost / value of service is 
+
+£337k met through match funders. 
+
+Delivery Partners: South Bank Employers Group (SBEG) and South Bank BID 
+
+What was delivered: The South Bank Clean team service provision operates as a partnership 
+
+between SBEG, private landowners, South Bank BID, Lambeth Council and Southwark Council 
+
+and delivers a comprehensive service across private and public estates throughout the South 
+
+Bank neighbourhood, one of the busiest in London. The team enhances and maintains the 
+
+quality of the area, in keepi ng with the reputation and importance of the South Bank as a world -
+
+class place for everyone. The team works seven days a week and 364 days a year clearing litter 
+
+and leaves, removing graffiti within 24 hours (four hours if offensive), jet washing pavements ,
+
+reporting issues of concern including suspicious parcels, and cleaning street furniture. 
+
+Impact : In 2024/25, the team collected 23,630 litter bags, removed 4,500 square metres of 
+
+graffiti, jet washed 50,000 square metres of surface area, and completed 1 ,207 flyposting 
+
+removal jobs. 
+
+Agnes Riley Gardens 
+
+Funding source: s106 Parks and Open Spaces 
+
+Amount: £223k 
+
+What was delivered: Utilising s106 funding commitment to Agnes Riley Gardens arising from a 
+
+nearby development, improvements were made to the fabric of Agnes Riley Gardens, including 
+
+access points, paths, and play space, whilst ensuring the depot building has a functional use. Impact: a s afer, enjoyable and better used local park. 
+
+Developer contributions supporting local e conomic growth 
+
+2.33 In addition to benefits for residents, developer contributions have also been used to support local 
+
+businesses and support business growth. Two case studies below demonstrate how funding has 
+
+been allocated and delivered using developer contributions: 
+
+High Streets Recovery Programme - Goding Street 
+
+Funding source : Neighbourhood CIL 
+
+Amount : Over £320,000 
+
+Delivery partners : Lambeth Council & Vauxhall One Business Improvement District (BID) 
+
+What was delivered: Public realm improvements in the southern area of Goding Stree t; 
+
+Installation of planters and greenin g; Modular seating ; Activation of vacant archway frontages 
+
+with local artwork 
+
+Impact : An improved business environment for local businesses seeking to recover trade 
+
+fol lowing the COVID - 19 lockdown 
+
+Affordable Workspace 
+
+Funding Source: CIL and s106 affordable workspace contributions Amount: £1.9m 
+
+Delivery partner: Meanwhile Space CIC 
+
+What was delivered: LJ Works is an affordable workspace hub in Loughborough Junction that 
+
+opened in late 2022. The Council collaborated with residents to form a steering group to develop 
+
+plans for the site. LJ Works provides 685m 2 of affordable business workspace , including 
+
+workshops , studios and a co -working space. The site also provides a long -term home for 
+
+Loughborough Farm, which manages the grounds at the front of the site. 
+
+Impact: LJ Works and other several other affordable workspace schemes supported through 
+
+Lambeth’ s ‘Future Workspace Fund’ which utilises s106 conditions and contributions have helped 
+
+to deliver :
+
+ 7, 690.6m 2 of affordable workspace and cultural facilities in the borough ;
+
+ Supporting 533 businesses ;
+
+ 1,737 jobs in growth sectors. 
+
+Allocations this year 
+
+2.34 This year, between April and December 2025/26, allocations for a total of £ 3,392,610 have been 
+
+received. The types of requests and areas received for allocated funds for s106 is shown in the 
+
+Table 1 below:   
+
+> Table 1: s106 allocated 2025/26 year to date
+
+Ward  Project 
+
+Amount 
+
+allocated 
+
+£000 
+
+Brixton Hill, Herne Hill  Brockwell Hall inclusive access provision  77.4 
+
+Streatham Hill East  Affordable Housing – Leigham Court Road  305.3 
+
+Herne Hill  Milkwood Community Park Playground  9.2 
+
+Borough -wide  Carbon Offset – Carbon Savings to Lambeth Housing Stock  66. 6
+
+Gipsy Hill, Knights Hill  Norwood Park Play Area - Play equipment investment  23.8 
+
+Vauxhall  Vauxhall Park Under 5s Play Area  64.4 
+
+Borough -wide  Travel Plan Monitoring  25. 2
+
+Herne Hill Loughborough 
+
+Junction  Refurbishment of Flaxman Squash Courts  35.0 
+
+Borough -wide  Future Workspace Fund - Round Three Allocation  1,559.2 
+
+Brixton Hill, Herne Hill  Brockwell Park Maintenance  45.2 
+
+Kennington, Myatts Field, 
+
+Stockwell West & Larkhall  Durning, Minet and Brocket House Refurbishments  99.8 
+
+Herne Hill  Ruskin Park Coach House  66.8 
+
+Bishops  2025 -26 London Eye South Bank Employers Group Payment  763.3 
+
+Streatham Hill, Thornton  Tree Planting - Thornton Road  13.6 
+
+Oval, Kennington  Kennington Oval Reimagined  99.8 
+
+West Dulwich  Robson Entrance West Norwood Cemetery  71.1 
+
+Clapham East  Bryan Kneale sculpture restoration  1.0 
+
+Vauxhall  Vauxhall Park Building Works Cost  55.0 
+
+Stockwell West & Larkhall  Tree planting Stockwell West and Larkhall  10 .9
+
+3 DEVELOPER CONTRIBUTI ONS : FINANCIAL POSITION 
+
+3.1 Table 2 below show s the unspent monies held for CIL and s106 as at Quarter 3, 2025/26.         
+
+> Table 2:current CIL and s106 monies held & allocated CIL funds
+> held
+> Of which
+> allocated
+> s106 funds
+> held
+> Of which
+> allocated
+> £m £m £m £m
+> 24.7 6. 457.3 35.8
+
+3.2 These funds are key to the council’s ability to continuing to deliver the types of benefits highlighted 
+
+in this report. 
+
+3.3 Of the £57.3m in s106 monies held shown in Table 2 above, as at Quarter 3, 2025/26, the amount 
+
+received is £5.3m. This includes an amount of £2.1m received at the end of September 2025 in 
+
+relation to an enforcement case, regarding an Affordable Housing Pa yment in lieu debt. 
+
+3.4 Combined strategic CIL and NCIL receipts in the current financial year (as at Quarter 3 2025/26) 
+
+are £2.3m. This is below what would typically be expected by this point in the year . The current 
+
+trend is comparable to 2021/22, when the final outturn was approximately £3.7 m.
+
+3.5 The decrease in CIL receipts reflects wider uncertainty within the development industry about the 
+
+UK’s economic outlook and project viability. Housebuilding in London has faced significant 
+
+challenges in recent years due to factors such as the lasting effects of the Covid -19 pandemic, 
+
+high interest rates, rising construction costs, regulatory pressures, and broader economic 
+
+conditions. As a result, housing starts in many parts of London were very low during the first 
+
+quarter of this year. 
+
+3.6 According to a recent Molior report, only 5,933 new home sales were recorded in London during 
+
+the first nine months of 2025, leading to just 3,248 housing starts in the same period. Low sales 
+
+activity has consequently contrib uted to fewer new construction starts. 
+
+3.7 Currently, the GLA is reviewing affordable housing policy with a view to reduc ing the requirement 
+
+to 20% ; easing of design requirements ; and temporary relief from payment of CIL up to 50% of a 
+
+council’s charge. The government will be consulting on these proposals for six weeks from 
+
+November. 
+
+3.8 These proposed adjustments are intended to stimulate development and encourage starts on site 
+
+in what is a difficult economic climate. They also illustrate the policy and regulatory framework 
+
+within which councils operate when seeking to facilitate and manage development activity is often 
+
+in flux .
+
+3.9 Given the challenging market conditions, a substantial number of planning permissions that are yet 
+
+to be built out (v arious so urce findings show that between 1.1 m to 1.2 m permissions nationally 
+
+since 2015 have not started as of 2024) further short -term policy relaxation may have limited 
+
+impact to accelerate genuine delivery . Where development is proceeding, much of the new sup ply 
+
+in London remains concentrated in higher -value schemes which may not address the full range of 
+
+local housing needs. Consequently, such changes to policy have the potential to materially impact 
+
+local authority funding streams and impede balanced and in clusive housing delivery outcomes 
+
+across London. 
+
+3.10 Chart 1 below provides an illustration of CIL and s106 receipts over the last 10 years. The number 
+
+of obligations relate to financial obligations by application only and excludes any non -financial 
+
+obligati ons secured. This illustrates how, immediately after the decision to exit the EU, these 
+
+contributions went into a significant decline. A further (significant) drop is seen again at the point of 
+
+the COVID pandemic . The peak seen in 2023/24 for CIL receip ts would suggest the peak relates to those sites that had been scheduled to commence at the point of the pandemic starting , after a 
+
+delay (to both commencement and payment of CIL) .
+
+3.11 Chart 2 presents s106 receipts and number of financial obligations separately .
+
+3.12 Chart 3, below, presents the position of CIL receipts and number of applications that carried those 
+
+CIL receipts by financial year.           
+
+> -
+> 20
+> 40
+> 60
+> 80
+> 100
+> 120
+> 140
+> 160
+> 180
+> 200
+> -
+> 2,000,000
+> 4,000,000
+> 6,000,000
+> 8,000,000
+> 10,000,000
+> 12,000,000
+> 14,000,000
+> 16,000,000
+> 18,000,000
+> 20,000,000
+> 15/16 16/17 17/18 18/19 19/20 20/21 21/22 22/23 23/24 24/25 25/26
+> projected
+> Value (£)
+
+Financial Year 
+
+Chart 1: CIL and s106 no of applications / obligations and receipts  - last 10 years 
+
+s106 receipts by year  CIL/NCIL receipts by year 
+
+s106 receipts - no. of covenants against receipt  CIL /NCIL liable applications by year 
+
+> -
+> 2,000,000
+> 4,000,000
+> 6,000,000
+> 8,000,000
+> 10,000,000
+> 12,000,000
+> 14,000,000
+> 16,000,000
+> 18,000,000
+> 20,000,000
+> -
+> 20
+> 40
+> 60
+> 80
+> 100
+> 120
+> 140
+> 160
+> 180
+> 200
+
+15/16  16/17  17/18  18/19  19/20  20/21  21/22  22/23  23/24  24/25  25/26 
+
+projected 
+
+> Receipts (£)
+> No applications
+
+Financial year 
+
+Chart 2: s106 no. of financial obligations and receipts  - last 10 years 
+
+s106 receipts - no. of covenants against receipt  s106 receipts by year 3.13 Tables 3 and 4 present the amount of s106 and CIL contributions received in the last 5 years by 
+
+area. 
+
+Table 3: s106 receipts last 5 years by Neighbourhood Area 
+
+Year received 
+
+Neighbourhood 
+
+Area 
+
+20/21  21/22  22/23  23/24  24/25  25/26 to 
+
+Q3
+
+Total by 
+
+Area 
+
+Total by 
+
+area  -
+
+percent £m  £m  £m  £m  £m  £m  £m 
+
+Brixton  0.16  0.5 0 0.2 0 0.2 0 1. 03  0.6 2 2. 71  8% 
+
+Clapham  0.14  1.01  0. 23  0.58  0.27  0. 13  2.3 6 7% 
+
+N Lambeth  1.82  0.62  1.47  3.24  1.73  2. 69  11. 57  34% 
+
+Norwood  0.11  0.24  0.06  0.25  0.25  0. 20  1.11  3% 
+
+Stockwell  0.11  0.01  0.06  0.21  0.05  0. 18  0. 62 2%
+
+Streatham  0 0.07  0.01  0.29  0.14  0. 23  0. 74  2% 
+
+Waterloo  0.95  1.63  5.42  2.24  3.6 8 1. 20  15. 12  44%
+
+Total  3.29  4. 08  7. 45 7.01  7. 15 5.25  34.23 
+
+Table 4: CIL receipts last 5 years by Neighbourhood Area 
+
+Year received 
+
+Neighbourhood 
+
+Area 
+
+20/21  21/22  22/23  23/24  24/25  25/26 
+
+to  Q3
+
+Total by 
+
+Area 
+
+Total by 
+
+area  –
+
+percent 
+
+(%) 
+
+£m  £m  £m  £m  £m  £m  £m 
+
+Brixton  0.06  0.5  1.43  0.2  0.53  0.3 6 3.0 8 8
+
+Clapham  0.33  0.26  3.42  2.86  2.08  0. 67  9. 62  25
+
+N Lambeth  1.72  2.55  3.38  4.36  4.57  0.03  16. 61  44
+
+Norwood  0.34  0.07  0.06  0.23  0.34  0. 63  1. 67  4
+
+Stockwell  0.14  0.17  0.11  0.01  0.04  0.01  0.48  2
+
+Streatham  0.09  0.06  0.18  0.21  0.5  0. 34  1. 38  4
+
+Waterloo  0.02  0.12  2.85  1.41  0.45  0.19  5.0 4 13 
+
+Total  2.7  3.73  11.43  9.28  8.51  2.23  37.88 
+
+3.14 CIL and s106 income can be volatile, making forecasting inherently challenging. Lambeth’s 
+
+current forecast was developed in 2021 and incorporates detailed analysis of non -          
+
+> -
+> 2,000,000
+> 4,000,000
+> 6,000,000
+> 8,000,000
+> 10,000,000
+> 12,000,000
+> 14,000,000
+> 16,000,000
+> -
+> 20
+> 40
+> 60
+> 80
+> 100
+> 120
+> 140
+> 160
+> 180
+> 15/16 16/17 17/18 18/19 19/20 20/21 21/22 22/23 23/24 24/25 25/26
+> projected
+> No applications
+
+Financial Year 
+
+Chart 3: CIL receipts & number of applications carrying those receipts  - last 10 years 
+
+CIL /NCIL liable applications by year  CIL / NCIL receipts by year commencements, as well as the application of various reliefs, all of which are factored into the 
+
+figures. 
+
+3.15 Since 2021, the team have continued to refine the forec asting approach , drawing on data from 
+
+previous financial years, using averages, engaging more actively with developers and taking into 
+
+account key economic events. The 2021 forecast also brought in a number of new adjustments 
+
+including: 
+
+ a reduction formula based on non -commencement analysis; 
+
+ a formula to account for sites where potential relief may be applied ;
+
+ identification of sites where relief of contribution (full or partial) is likely to apply; and 
+
+ adjustments for developments that have technica lly commenced in planning terms, but not in 
+
+CIL or Section 106 terms, which can extend the timeline for income. 
+
+3.16 It is widely accepted that forecasting beyond a one -year horizon is naturally difficult, particularly in 
+
+the context of infrastructure and deve lopment. They are impacted by project variability and 
+
+sometimes less than reliable data where communication with developers can be limited .
+
+Nevertheless, a managed approach to forecasting for future years is undertaken. Additionally, the 
+
+one -year plann ing income forecast has been in place for over a decade and has proven to be 
+
+robust. This model is under constant review and adaptation to enhance projections that are 
+
+informed by activity trends and receipt patterns, to help continually develop a more dy namic and 
+
+responsive view of expected income .
+
+3.17 The current forecast as at 31/12 /2025 for CIL , NCIL and s106 are shown at tables 5, 6 and 7
+
+below .                                                                                     
+
+> Table 5: CIL forecast at Q3: 31/12/2025
+> Financial year 24/25 25/26 26/27 27/28 28/29
+> £m £m £m £m £m
+> Actuals to 31/12/2025 n/a 1.9 n/a n/a n/a
+> Forecast n/a 0.8 6.5 7.5 9.1
+> Total 7.1 2.7 6.5 7.5 9.1
+> Table 6:NCIL forecast at Q3: 31/12/2025
+> Financial year 24/25 25/26 26/27 27/28 28/29
+> £m £m £m £m £m
+> Actuals to 31/12/2025 n/a 0. 4n/a n/a n/a
+> Forecast n/a 0.1 1.7 1.8 2.2
+> Total 1.4 0.5 1.7 1.8 2.2
+> Table 7: s106 forecast at Q3: 31/12/2025
+> Financial year 24/25 25/26 26/27 27/28 28/29
+> £m £m £m £m £m
+> Actuals to 31/12/2025 n/a 5.2 n/a n/a n/a
+> Forecast n/a 0.5 8. 58.9 6.7
+> Total 7.2 5.7 8. 58. 96.7
+
+3.18 Historically, the process for spending and drawing down s106 monies has presented challenges. 
+
+Responsibility for expenditure lies with individual service areas across the Council and full 
+
+utilisation of available funds depends on those services actively submitting drawdown requests. A
+
+recurring issue is the presence of projects with minimal or no expenditure over several years ,
+
+particularly where projects have become inactive. Whil st delays can often be justified with good 
+
+reasons , they contribute to a growing balance of allocated but unspent funds, which in turn 
+
+presents a financial risk and complicates the management of overall s106 commitments .
+
+3.19 Most other London boroughs that have published Infrastructure Funding Statements for 2023/2 4
+
+show significant unspent s106 balances:             
+
+> Table 8: London borough unspent s106 in 23/24
+> London Borough
+> Unspent s106
+> 2023/24
+> £m
+> Westminster 169.2
+> Wandsworth 134.1
+> Newham 72
+> Lambeth 55.5
+> Southwark 49.2
+> Hammersmith & Fulham 47.5
+> Tower Hamlets 45.9
+> Kensington & Chelsea 45.5
+> Brent 21.3
+> Islington 7.1
+
+3.20 Unspent s106 balances often result from delays between receipt and expenditure. In some cases, 
+
+funds are allocated to large -scale projects that require additional fundraising or are dependent on 
+
+external factors before implementation can begin. 
+
+3.21 For example, the Transforming Vauxhall Gyratory project has a £14.1 m funding allocation . This is 
+
+made up of £11 .5m in s106 covenants ringfenced from the Vauxhall Nine Elms Battersea 
+
+Development Infrastructure Funding Study ( DIFS ), £2 .6m in other s106 covenants and £50,383 
+
+from Strategic CIL. The Council’s funding is match by TfL funding contributions, yet a significant 
+
+funding gap remains for this TfL led partnership scheme , which means the allocation of funds 
+
+remains unspent until the funding gap can be closed .
+
+3.22 The remodelling of the gyratory represents a major opportunity to create a new town centre and is 
+
+critical for the boro ugh , unlocking approved development schemes and delivering benefits across 
+
+transport, climate, housing, employment , business rates, and future CIL /s106 funding. 3.23 To help realise the Vauxhall Gyratory project, o ngoing negotiations with Transport for London 
+
+(TfL) , other landowners, and the Government are underway to address this gap and deliver the 
+
+scheme , unlocking the wider development, public realm and public transport benefits for the station 
+
+area .
+
+3.24 Additionally , some s106 contribut ions are passported to external bodies such as TfL or the NHS, 
+
+and Lambeth does not have the authority to spend these funds directly .
+
+3.25 The CIL/s106 team reviews drawdown requests for compliance , where this has not already been 
+
+confirmed prior to project initiation. They also engage with service areas on a quarterly basis to 
+
+encourage timely submission of drawdown requests. However, there is an opportunity for all 
+
+parties to improve in year drawdown processes. This would support more accurate and timely 
+
+financial tracking and reduce the risk of year -end decisions to use temporary borrowing instead of 
+
+allocated funds. 
+
+3.26 As part of the ongoing budget process, the Council’s Capital Strategy will be substantially updated 
+
+to ensure stronger alignment between s trategic priorities and available funding sources. Within 
+
+this, clear links will be maintained between the Capital Strategy and the use of CIL , NCIL and s106 
+
+monies ; as well as strengthen governance arrangements for managing capital schemes through 
+
+their project lifecycle and clear prioritisation of funding sources including CIL/s106 .
+
+3.27 These mechanisms remain an important source of funding for the Council’s capital programme, 
+
+supporting the delivery of infrastructure and investment priorities across the borough. 
+
+3.28 In addition, there is recognition that CIL/ NCIL/ s106 funding may, in certain circumstances, 
+
+contribute towards eligible revenue costs associated with growth and development where those 
+
+receipts are either received as revenue and/or are, under t he regulations, able to be used for both 
+
+revenue and capital funding. Further work is to be undertaken to identify potential areas where 
+
+costs, currently met from the Council’s general fund budgets, could appropriately be supported 
+
+through CIL/ NCIL/ s106 a nd ease the burden on the public purse. As part of the council’s budget planning process for 26/27 and the medium term , it is undertaking a review to consider if existing 
+
+revenue costs can be financed from CIL, NCIL or s106 within the appropriate regulations and legal 
+
+agreements .
+
+3.29 Appendix I provides a flowchart illustrating the CIL and s106 allocation and drawdown process . It 
+
+is important to note that the team advises only on scheme compliance . D ecisions regarding which 
+
+projects should ultimat ely be funded are taken through standard member decision processes. 
+
+4 CIL/S106 AND DEVELOPMENT INFR ASTRUCTURE TEAMS 
+
+Purpose and Remit of team s
+
+4.1 The CIL/s106 and Development Infrastructure teams play a vital statutory role in managing 
+
+developer contributions. They are responsible for developing policy proposals to members and 
+
+implementing policy passed by members, making sure that developers contribute fairly to the 
+
+borough when they build new ho mes, offices, or other developments, ensuring CIL contributions 
+
+are paid and deliver what has been agreed in each s106 planning obligation .
+
+4.2 At any time, the team s may be monitoring over 500 live permissions, as well as undertaking 
+
+enforcement action on a significant number of problem sites. This ensures developments 
+
+contribute appropriately to infrastructure and community needs. 
+
+4.3 Whilst the teams are not directly involved in decision making around what area or project should be 
+
+taken forward for delivery using CIL or s106 funding ( nor are they responsible for the spending of 
+
+those allocations ) the ir work is a key factor in ensuring that growth in Lambeth benefits everyone, 
+
+by funding the infrastructure and services that communities need. 
+
+4.4 The team is funded directly from monitoring and administration fees - paid specifically for the 
+
+purpose of monitoring and enforcing developer contributions. 
+
+4.5 Their work includes: 
+
+ Monitor ing , collect ing and manag ing developer payments through CIL and s106, including 
+
+calculating CIL liabilities based on development size and type. 
+
+ Track ing development sites for commencement and trigger points to ensure timely financial and 
+
+non -financial compliance, undertaking site visits and enforcement where necessary. 
+
+ Oversee ing non -financial obligations by assessing developer submissions, coordinating with 
+
+relevant teams (e.g. Development Management, Employment & Skills, Highways) to ens ure 
+
+obligations are discharged and recorded. 
+
+ Engag ing proactively with developers to promote understanding and compliance with s106 
+
+requirements. 
+
+ Work ing collaboratively across Council Directorates to ensure spending proposals and project 
+
+allocations meet s106 covenant and regulatory requirements. 
+
+ Support ing services with evidence for drawdowns and review allocations to identify where funds 
+
+may need reallocation due to project changes or delays. 
+
+ Coordinat ing with services to monitor delivery, track availabl e obligations, and share regular 
+
+updates on spendable funds. 
+
+ Publish ing annual regulatory reports including the Infrastructure Funding Statement (IFS) 
+
+providing transparency on income and expenditur e. Undertak ing quarterly income forecasting and provide r egular updates and briefings on CIL and 
+
+s106 receipts. 
+
+ Maintain ing accurate records within the Council’s Exacom system. 
+
+ Collaborat ing with Highways, Housing, Legal and other teams to ensure s106 drafting supports 
+
+effective monitoring, enforcement and infrastructure delivery. 
+
+ Inpu tting into planning application negotiations and draft legal agreements to ensure obligations 
+
+are monitorable , enforceable and aligned with Council priorities. 
+
+4.6 The team also works closely with Planning and Legal services to track relevant changes to 
+
+regulations and ensur e compliance in relation to CIL and s106 (see para. 4.7 – 4.17 below) 
+
+Improvement Programme 
+
+4.7 Historically, the CIL/s106 team took a largely passive and reactive approach with little monitoring of 
+
+non -financial s106 obligations. This presented a risk to the Council’s ability to effectively monitor 
+
+delivery of Affordable Housing as well as other contributions . Following a review of those practices 
+
+and mapping out the processes, an improvement programme was developed which included a
+
+more proactive, engaged way of working. 
+
+4.8 As a result of this wide -ranging improvement plan a sc hedule was drawn up identifying and 
+
+drawing up over 100 (one hundred) areas to apply new working methodologies. 
+
+4.9 The team has played a vital role in identifying and addressing issues arising from the drafting of 
+
+s106 agreements and associated documents, such as policies. These challenges have had 
+
+broader implications across the Council, affecting related functions and service delivery in other 
+
+areas. In response, the team has contributed to enhancements in both processes and 
+
+coordination across departmen ts. This includes collaborative work across Directorate s work to 
+
+strengthen policies and procedures . For example , ensuring that the allocation of different 
+
+affordable housing (AH) tenures align with the Council’s priorities .
+
+4.10 Another example is the gap identified between Nomination Agreements (NAs) secured through 
+
+s106 planning obligations and the data held by Housing. Through sustained engagement - the 
+
+team has worked with Housing teams to address this, establish ing clearer links an d processes that 
+
+ensure NAs secured via planning are effectively implemented . This workstream has allowed for 
+
+synergies between s106 template agreements and the Council’s nomination agreements for social 
+
+housing to facilitate more efficient monitoring. 
+
+4.11 In addition , the team has collaborated closely with Housing colleagues to revise the Lambeth 
+
+Tenancy strategy . This has include d a stronger emphasis on the prioritisation of affordable 
+
+(intermediate) housing secured through s106 planning obligations and monitored by the 
+
+Development Infrastructure team. Monitoring of intermediate tenures has also been strengthened 
+
+through closer engagement with Registered Providers and partners such as the GLA , helping 
+
+ensure that eligibility criteria are met and uni ts are marketed via the most appropriate channels. 
+
+4.12 These efforts have encouraged more strategic thinking around the range of affordable housing 
+
+tenures coming forward in the chain -letting process and purchase opportunities , where differing 
+
+types of accommodation are offered and available. Ultimately, this work supports a more 
+
+responsive supply of affordable options and helps to ease pressure on overall housing need in the 
+
+borough. Collectively, t hese developments have contributed to stronger oversight and better 
+
+alignment with borough -wide housing priorities. 4.13 The progress outlined above, reflects the team’s commitment to strengthening governance ,
+
+coordination and delivery across housing -related functions to align wit h borough -wide housing 
+
+priorities. Some of the other extensive improvements the team have delivered include the items 
+
+shown below :
+
+ Transitioned from a reactive to a proactive approach in monitoring and collecting financial 
+
+contributions, including the es tablishment of the Development Infrastructure team to oversee 
+
+monitoring of non -financial obligations such as viability reviews .
+
+ Working with Parking on a project to review issues with the parking permit restrictions and 
+
+recommendations for a revised parki ng enforcement policy .
+
+ Increased enforcement activities since 2021 /22 (see section on Enforcement below) .
+
+ Developed enhanced forecasting methodologies to strengthen monitoring and financial 
+
+planning, including improved oversight of low -activity (‘quiet’) sites. 
+
+ Improved logging of contribution s on the Council ’s monitoring database to ensure all relevant 
+
+obligations are logged and can be monitored . The new system also facilitates liaising with 
+
+other teams for example to identify funds available for various projects . The new system also 
+
+will provide more usable data which in future can be used to eva luate the effectiveness of 
+
+planning policies or further optimise monitoring and delivery of developers’ contributions .
+
+ Introduced new, cross team processes for di scharging of non -financial obligations and a
+
+database which allows to monitor all types of obligations more efficiently .
+
+ Working with Legal /Land Charges/Planning teams to ensure greater alignment of databases 
+
+and processes to fulfil the Council’s obligations, enable enforcement and monitoring of all 
+
+s106 planning obligations .
+
+ Establish ing strong working practices and engagement with Policy & Placeshaping service to 
+
+ensure alignment with Local Plan making and Infrastructure Planning. 
+
+ Collab orated with Legal and Planning team s to update s106 templates to align with new 
+
+monitoring processes and mechanisms for infrastructure delivery/spending of funds. 
+
+ Introduced new processes to support developers in meeting their obligations, including 
+
+proac tive engagement from the point of s106 agreement signing to ensure a shared 
+
+understanding of required actions at each trigger point .
+
+4.14 These improvements are significant and wide -ranging . It takes the work into a proactive model 
+
+ensuring that CIL and s106 income is maximised and non -financial obligations delivered . In doing 
+
+so this helps ensure that developers meet their obligations to the Council. Whilst there is still a 
+
+significant workload ahead, there is a clear sense of purpose and commitment to ensu re a high -
+
+performing, proactive operation. 
+
+Enforcement 
+
+4.15 Enforcement activity against outstanding monies varies dependent on a number of factors, 
+
+including the type of contribution, whether the site is still undergoing construction and what may be 
+
+the most expedient way to recover those sums . F or example , in some cases, negotiations with 
+
+developers may produce better outcomes than hard action, in other cases stop notices or 
+
+applications to the courts, either Magistrate s’ or County , are considered more appr opriate. 
+
+4.16 The CIL/s106 team has a clear framework for management of enforcement cases. This generally 
+
+consists of a five -stage process prior to taking CIL enforcement action. An enforcement framework 
+
+has also been developed by the Development Infrastructure team for s106 cases to progress non -
+
+complied obligations . For non -financial obligations this includes close working with other teams such as Employment and Skills or Highways , to identify the relevant obligations and engage with 
+
+the liable p arty to secure compliance with obligations. 
+
+4.17 The Development Infrastructure team is currently undertaking a project to integrate older planning 
+
+permissions into the Council’s new monitoring system, with a particular focus on major 
+
+developments that includ e affordable housing and workspace obligations. Of the sites reviewed 
+
+and where development has commenced, 20 (representing 59%) were found to be non -compliant 
+
+with one or more planning obligations. In response, the Council has issued a range of formal 
+
+notices , including Reminder Notices, Non -Performance Notices, and Final Warnings , addressing 
+
+issues such as: 
+
+ Employment and skills plans for both the construction and end -user phases .
+
+ Affordable housing viability reviews , for example, a late -stage review submitted following 
+
+enforcement action is currently under assessment (by the planning team) and may result in a 
+
+significant financial contribution. Data provided by Development Infrastructure officers has 
+
+been instrumental in informing these assessment s.
+
+ Affordable housing - marketing and disposal of affordable housing units to registered 
+
+providers .
+
+ Highway -related obligations, including entering into s278 agreements .
+
+ Transport -related commitments, such as travel plans, car club and cycle hire memberships, 
+
+and parking restrictions .
+
+ Sustainability obligations, including carbon offset reporting which may trigger financial 
+
+contributions .
+
+ Other planning requirements, such as the provision of communal spaces and public realm 
+
+improvements .
+
+4.18 Approximately half of the identified sites have now been brought into compliance, and most of the 
+
+remaining developers are actively cooperating, with relevant submissions currently under review. 
+
+The levels of non -compliance found highlight the importance of proactive monitoring . It ensures 
+
+that planning obligations are fulfilled allowing delivery in full of the benefits secured through the 
+
+planning process. 
+
+4.19 Between January 2024 and December 2025, the Development Infrastructure team made 
+
+significant progress in enforcing s106 obligations on development sites ranging from small to 
+
+major . A total of 75 Reminder Notices (Stage 1 of the s106 enforcement process ), 29 Non -
+
+performance Notices (Stage 2), and 8 Final Warning Letters (Stage 3) were issued, reflecting a 
+
+structured and pro active approach to compliance. 
+
+4.20 The team prioritises early engagement with developers to resolve issues at the first stage wherever 
+
+possible, which has proven effective in reducing escalation and ensuring timely fulfilment of 
+
+planning obligations. This consistent enforcement effort has strengthened accountability and 
+
+contributed to improved monitoring and delivery of s106 commitments across the borough. 
+
+4.21 Other e xamples of effective enforcement in the last two years include :
+
+ Recently securing just under £500,000 in a case where the team issued CIL related 
+
+proceedings . The appellant paid in full before the matter reached court with the hearing being 
+
+dismissed. This provides a clear example of how the new, proactive approach is delivering 
+
+faste r, more efficient outcomes.  A Warning Stop Notice at a site in Streatham (Madeira Road) led to a payment plan being put 
+
+in place. 
+
+ A recent Warning Stop Notice at a site in Norwood (77 Alexandra Drive) , where c£160,000 of 
+
+CIL was outstanding, led to full p ayment being received. This is the second instance where a 
+
+Stop Notice Warning has led directly to constructive action. 
+
+ A recent Stop Notice issued at a site in Lansdown e Hill , where c£500,000 of CIL was 
+
+outstanding , led to full payment being recovered . Since 2024/25, the team has successfully 
+
+secured £1. 45 m in outstanding debts with support from the Council’s legal prosecutions team. 
+
+This includes £ 999 ,198 through eight Liability Orders granted . Four further Liability Orders, 
+
+totalling £ 654,143 are sched uled for hearings in early 2026 , whilst Liability Order Reminder 
+
+Notices for five additional cases, worth c£170k , are due to be issued in January 2026. 
+
+ An additional £456,299 was collected prior to court hearings, demonstrating the effectiveness 
+
+of proactive measures that often prevent the need for formal court proceedings. 
+
+ Coldharbour Lane : Enforcement case relating to a lack of car club provision on a 
+
+development of over 100 flats developed over 10 years ago. The Development Infrastructure 
+
+Team wor ked closely with the developer, Highway s team and the car club provider to ensure 
+
+that a new car club bay and car are provided (see image below) and car club memberships 
+
+provided to occupiers of the development free of charge. 
+
+4.22 An analysis of the team’s enforcement activity in the current financial year (to end of November 
+
+2025/26) demonstrates the impact of proactive action on recovering CIL and s106 monies:            
+
+> Table 9: receipts received with/without intervention to 30/11/2025, FY25 -26
+> Type
+> %of receipts
+> without team
+> intervention
+> %of receipts
+> with team
+> intervention
+> CIL (including Mayoral Receipts) 41% 59%
+> CIL (Lambeth only) 47% 53%
+> s106 48% 52%
+
+Table 9 above shows that over half of all CIL and s106 receipts in the current financial year were 
+
+recovered as a direct result of proactive enforcement, highlighting the effectiveness of the team’s 
+
+interventions. 4.23 These results demonstrate that a consistent, proactive enforcement approach is highly effective 
+
+in securing compliance and recovering outstanding contributions. Early engagement with 
+
+developers, structured reminder stages, and targeted formal action have en abled the Council to 
+
+recover millions in outstanding CIL and s106 contributions, whilst also ensuring delivery of 
+
+affordable housing, employment and skills commitments, transport measures and sustainability 
+
+obligations. 
+
+By actively monitoring development sites and intervening where necessary, the Council enforces 
+
+accountability and maximi ses the delivery of benefits for the community. This approach ensures 
+
+planning obligations are fulfilled in full, producing tangible outcomes on the ground while 
+
+minimi sing the need for lengthy court proceedings. 
+
+5 REGULATORY FRAMEWORK SThe Community Infrastructure Levy Regulations 2010 (as amended) (CIL Regs) 
+
+5.1 The CIL Regs introduced under the Planning Act 2008, established a fixed -rate charge on new 
+
+development to help fund the infrastructure required to support sustainable growth, such as 
+
+schools, health facilities, parks, climate resilience measures, and tran sport. 
+
+5.2 The CIL regime has become one of the most frequently amended areas of planning legislation, 
+
+with significant changes introduced over time. Notably, the 2019 amendments removed the 
+
+previous restriction on pooling s106 contributions 1 and introduce d new requirements for annual 
+
+Infrastructure Funding Statements (IFS) to improve transparency .
+
+5.3 Charging authorities must adopt a CIL Charging schedule which sets the specific levy rates to be 
+
+applied to different types of developments and locations, foll owing public consultation and 
+
+independent examination. Lambet h’s first CIL Charging Schedule came into effect in 2014 and 
+
+remains a key mechanism for supporting the delivery of the Borough Plan’s priorities . Lambeth’s 
+
+CIL Charging Schedule was updated following examination and came into force in 2022 .
+
+Neighbourhood CIL (NCIL) 
+
+5.4 The regulations require that a designated portion of CIL receipts, known as Neighbourhood CIL 
+
+(NCIL), is spent in consultation with local communities. The Council undertakes a v ariety of 
+
+consultation activities to inform strategies, policies and programmes which NCIL helps to deliver. 
+
+5.5 Neighbourhood forums such as SOWN are key in helping to guide NCIL expenditure. This 
+
+ensures that investment responds to the specific demands that development places on local areas, 
+
+while also contributing to strategic objectives set out in the Borough Plan, Local Plan and Growth 
+
+Plan. This ensures that the funding is directed toward addressing the specific impacts and 
+
+demands that development p laces on neighbourhoods. It can be used to fund revenue or capital 
+
+activities. 
+
+5.6 The Community Connections Fund competit ive grants programme is another way of ensuring that 
+
+NCIL is spent in supporting community groups to meet neighbourhood -specific needs and 
+
+opportunities , which are aligned with the Council’s strategic objectives set out in the Borough Plan .
+
+5.7 The Cabinet report agreed on 5 July 2021, to formally revert to its position around the additional 
+
+allocation of 10% CIL to a local level with Neighbourhood CIL being 15% of CIL receipts for areas     
+
+> 1Prior to the 2019 amendments, there was a limit that only five s106 agreements could be pooled for a single type of
+> infrastructure project. For example, if a council wanted to fund a new school, it could only collect s106 contributions from up to
+> five different developments for that school. After that limit was reached, the council could no longer request further s106
+> contributions for that same project and would have to rely on CIL or other sources.
+
+without a Neighbourhood Plan and 25% for areas with a Neigh bourhood Plan. Cabinet also agreed 
+
+that CIL would be managed through the Council’s Capital Investment Programme. 
+
+5.8 Neighbourhood planning is intended to give communities direct power to develop a shared vision 
+
+for their neighbourhood and to shape developm ent of their local area. A neighbourhood plan is 
+
+prepared by a designated neighbourhood forum and once adopted, it becomes part of the statutory 
+
+development plan alongside the Local Plan. In areas with an adopted neighbourhood plan – a
+
+greater proportion of CIL receipts must be allocated for local spending priorities. In Lambeth:  
+
+> 
+
+The South Bank and Waterloo Neighbours (SOWN) area is currently the only adopted 
+
+Neighbourhood Plan, meaning developments in this area contribute 25% of CIL receipts to 
+
+NCIL , re flecting the enhanced role of neighbourhood plans in guiding local investment.  
+
+> 
+
+All other areas without a neighbourhood plan receive the standard 15% NCIL allocation, 
+
+subject to the annual cap of £100 (indexed) per Council Tax Dwelling in accordance with 
+
+national regulations. 
+
+Section 106 planning obligations (s106) 
+
+5.9 Planning obligations - found within Section 106 of the Town and Country Planning Act 1990 (as 
+
+amended) - are a mechanism by which a development that would otherwise be considered 
+
+unacceptable can be managed by introducing a form of mitigation. They secure site -specific 
+
+mitigation which could be in the form of financial payment or non -financial obligations such as 
+
+affordable housing, restricting parking permits, requiring membership of car clubs etc. They are 
+
+focused, site -specific obligations which reduce the impact that development would otherwise pose 
+
+on the locality. They are negotiated on a case -by -case basis and are legally binding. S106 funds 
+
+are predominantly secured and used for capital projects but revenue spend (for example on 
+
+employment and skills initiatives) is also possible. 
+
+5.10 S106 obligations may also govern how developments are used or delivered , for example, 
+
+affordable housing requirements, or restrictions on parking permits. If the s106 is not complied 
+
+with, it is enforceable against the person that entered the obligation and /or any subsequent owner. 
+
+The legal tests for s106 planning obligations are set out in regulation 122 of the CIL Regs. As well 
+
+as the legal tests, the policy tests are contained in the National Planning Policy Framework 
+
+(NPPF). The NPPF guides the planning process and set s out the Government’s policies for 
+
+England. It provides guidance for local authorities on items such as preparing Local Plans and 
+
+making planning decisions. 
+
+Annual reporting – Infrastructure Funding Statement 
+
+5.11 The Council’s annual IFS is the key mechanism to provide transparency and report on spend and 
+
+allocation of CIL, NCIL and s106. The information that must be provided includes all the activity 
+
+related to the relevant financial year being reported, as well as information on unspent money 
+
+collected in previous years. It should also include the infrastructure projects or types the authority 
+
+intends to be funded in part by CIL. Regulation 121A of the CIL Regulations 2010 (as amended) 
+
+sets the full requirement s; additionally planning practice guidance provides non -mandatory 
+
+requirements for what should be provided. 
+
+5.12 The IFS helps communities and developers understand what the Council has allocated and spent 
+
+developer contributions on . I t also shows how the le vel of growth outlined in the Local Plan can 
+
+deliver tangible outcomes and investment in infrastructure projects such as new public realm, 
+
+health facilities, schools etc that will support long term growth and development of the borough. 
+
+Audit 5.13 As identif ied earlier in this report, the historical approach to monitoring , particularly in relation to 
+
+non -financial s106 obligations , ha d been largely passive. Following the establishment of the 
+
+Development Infrastructure team, a significant review was undertaken (prior to audit) to identify 
+
+historic sites requiring monitoring along with a range of other process improvements which could 
+
+be made. This led to a CIL and s106 process improvement programme. 
+
+5.14 In 2024/25, CIL and s106 processes were audited . The teams received acknowledgement and 
+
+support for the programme from the auditors who recogni sed the good work done to date in terms 
+
+of improvements and identified items for priority focus which was supported by the teams’ own 
+
+programme plan. However limi ted team capacity is a risk and may delay improvement project 
+
+delivery, as well as lead to reduced oversight on sign offs and/or lead to errors in monitoring 
+
+processes. 
+
+5.15 The auditor also reviewed a sample of non -financial obligations from this exercise and confirmed 
+
+that all had been appropriately monitored, with records updated in a timely manner. This outcome 
+
+highlights the positive impact the team has brought to strengthening governance and oversight of 
+
+s106 obligations. 
+
+5.16 The auditor acknowledged the scale and scope of the improvement programme, recogni sing its 
+
+breadth and the robust system established to manage over one hundred (100) identified areas for 
+
+improvement. The audit outcome was rated as Reasonable, with no areas flagged as Critical or 
+
+High. The auditor expressed confidence in the programme direction of travel and commended the 
+
+team s’ structured approach to tracking and monitoring progress. They also noted the presence of a
+
+strong management framework and the teams ’ management showing clear awareness of where 
+
+further improvements could be made. This outcome highlights the significant impact and added 
+
+value the team has delivered in strengthening governance and oversight of planning obligations. 
+
+6 Conclusion 
+
+6.1 Through effective monitoring, colle ction and coordination , developer contributions are being 
+
+translated into real, visible improvements across Lambeth, from affordable housing and public 
+
+realm upgrades to community facilities, jobs and skills and climate resilience. 
+
+6.2 Whilst there are significant unspent balances, in the context of severe financial challenges for local 
+
+authorities across the UK, CIL and s106 funding provide the council with the ability to fund 
+
+improvements to borough -wide infrastructure, mitigate the im pact of development on communities 
+
+and services, and ensure the benefits of growth and investment in the borough are felt by residents 
+
+across the borough. 
+
+7 FINANCE 
+
+7.1 This report provides an overview of the development contributions received by the Council as of 
+
+December 2025, along with projections of expected contributions in future years. 
+
+7.2 It should be noted that these projections are indicative and subject to change, influenced by 
+
+broader economic conditions, variations in development activity, and potential changes in national 
+
+policy or legislation. 
+
+7.3 The Council is currently in the process of updating its Capital Strategy which is planned to be 
+
+considered by Council in March 2026 as part of the Budget papers. The updated Capital Strategy 
+
+recognises CIL and s106 as a core funding source for the Council’s capital programme. To 
+
+optimise the use of CIL/ s106 funds this will require greater alignment between the Capital Strategy and CIL/ s106 allocation process; as well maximising the linkages to the Asset Management 
+
+Strategy. 
+
+7.4 Lambeth Council use CIL and s106 development contributions to fund both infrastructure projects 
+
+and mitigate development impacts. Please see paragraphs 3. 26 – 3. 28 for more information on 
+
+how these funds are being considered within the capital and revenue budget setting process. 
+
+8 LEGAL AND DEMOCRACY 
+
+8.1 The Council is the charging authority and collecting authority for the purposes of the CIL Regs, 
+
+Planning Act 2008 and the Town and Country Planning Act 1990. The Council is obliged to expend 
+
+funds secured through the planning process for the purposes for which the funds were paid in 
+
+accordance with the legal framework for planning obligations and CIL .
+
+8.2 There were no furt her comments from Democratic Services. 
+
+9 CONSULTATION AND CO -PRODUCTION 
+
+9.1 Consultation with internal teams, and interaction with developers is an ongoing process in this . The 
+
+team produce an annual Infrastructure Funding Statement in consultation with other services. 
+
+10 RISK MANAGEMENT 
+
+10.1 Not applicable to this report. 
+
+EQUALITIES IMPACT AS SESSMENT 
+
+11.1 An EIA was undertaken in 2024/25 and there are no negative impacts to the teams’ work .
+
+COMMUNITY SAFETY 
+
+11.2 Whilst not directly focused on community safety, the team's role in monitoring and enforcing s106 
+
+and CIL helps to enable projects that improve the public realm. This includes enhancements to 
+
+lighting, street layouts, and other infrastructure that contribute to safer, more accessible 
+
+neighbourhoods. By ensur ing that developer contributions are effectively captured and paid , the 
+
+team supports wider efforts to reduce anti -social behaviour and improve perceptions of safety 
+
+across the borough. 
+
+CHILD FRIENDLY LAMBE TH 
+
+11.3 Whilst not directly linked, the work the teams do supports Lambeth’s ambition to become a child -
+
+friendly borough by ensuring that developer contributions are effectively managed and prioritised to 
+
+deliver infrastructure that benefits children and young people. Improvements to governance and 
+
+funding allocation processes will help accelerate delivery of projects such as safer streets, 
+
+improved public spaces, and enhanced community facilities, including libraries and youth centres, 
+
+that directly support the wellbeing, safety, and development of y oung residents. While this policy 
+
+does not involve direct consultation with children and young people, it aligns with the Council’s 
+
+corporate parenting responsibilities by creating environments that are inclusive, accessible, and 
+
+supportive of Care Leavers and Children Looked After. Future phases of the improvement plan 
+
+could include, for example, exploration of opportunities for more structured engagement with young 
+
+people to inform project prioritisation. ORGANISATIONAL IMPLI CATIONS 
+
+Environmental 
+
+12.1 None 
+
+Health 
+
+12.2 None 
+
+Staffing and accommodation 
+
+12.3 N/A 
+
+Responsible Procurement 
+
+12.4 N/A 
+
+Good Quality Jobs with Fair Pay and Decent Working Conditions 
+
+12.5 N/A 
+
+Quality Apprenticeships, targeted Employment for Lambeth residents and Lambeth Priority Group 
+
+12.6 N/A 
+
+Reduce Emissions: Lambeth Council has a commitment to being Zero Carbon by 2030 
+
+12.7 N/A 
+
+Single Use Plastics 
+
+12.8 N/A 
+
+Positive Health and Wellbeing 
+
+12.9 N/A 
+
+Other Offers (Innovation) 
+
+12.10 N/A 
+
+TIMETABLE FOR IMPLEM ENTATION 
+
+12.11 N/A for this report. AUDIT TRAIL 
+
+REPORT HISTORY 
+
+Original discussion with Cabinet Member  08/09/2025 
+
+Report deadline  21/10/2025 (draft); 10/11/2025 (final) 
+
+Date final report sent (For individual decision 
+
+reports please delete this row if necessary) 
+
+Part II Exempt from Disclosure/confidential 
+
+accompanying report?  No 
+
+Key decision report  No 
+
+Date first appeared on forward plan  n/a 
+
+Name and Position/Title  Lambeth Directorate  Date Sent  Date 
+
+Received 
+
+Comments in 
+
+paragraph: 
+
+Councillor Danial Adilypour 
+
+Cabinet Member for 
+
+Housing, Investment and 
+
+New Homes 
+
+03/09/2025 
+
+And 
+
+15/10/2025 
+
+08/09/2025 
+
+and 
+
+20/10/2025 
+
+Throughout 
+
+Matthew Dibben - Director  Environment and Growth  16/01/2025  16/01/2025  Throughout 
+
+Matthew Blades – Director  Environment and Growth  08/08/2025  27/08/2025  Throughout 
+
+Nabeel Khan, Corporate 
+
+Director 
+
+Environment and Growth  08/08/2025  22/10/2025  Throughout 
+
+Zena Cooke, Corporate 
+
+Director  Corporate Resources  16/10/2025  22/10/2025  Throughout 
+
+Paul Badiani, Finance  Corporate Resources  08/08/2025  03/09/2025 
+
+Finance 
+
+Summary and 
+
+Finance section 
+
+Christopher Allingham, 
+
+Principal Property, Planning 
+
+& Regeneration Lawyer, 
+
+Legal 
+
+Corporate Resources  29/08/2025  23/09/2025  Throughout 
+
+Rob Bristow, Director, 
+
+Climate, Planning & 
+
+Transport 
+
+Environment and Growth  28/08/2025  26/09/2025  n/a 
+
+Ciara Whelehan, AD Policy 
+
+& Placeshaping  Environment and Growth  26/08/2025  26/08/2025  Throughout 
+
+Laura Davy , AD 
+
+Neighbourhood 
+
+Regeneration 
+
+Environment and Growth  13/01/2026  14/01/2026  Throughout 
+
+Glenn Hammons – Director 
+
+of Finance Deputy S151 
+
+Officer 
+
+Corporate Resources  29/08/2025  11 /1 1/2025  Throughout 
+
+Roger Raymond, Senior 
+
+Democratic Services 
+
+Officer, Democratic 
+
+Services 
+
+Corporate Resources  03/09/2025  16 /01 /202 6 Throughout Key decision reasons  4. Not applicable. 
+
+Background information 
+
+MANDATORY: It is a legal requirement to insert 
+
+any public documents you have used or 
+
+referenced to write this report. Do not list private 
+
+documents (such as OB reports). Detailed 
+
+procurement information will need to be provided 
+
+in an internal procurement report but will not be 
+
+appended to this report (and the p ublic info will 
+
+be a background document). 
+
+Cabinet report 2021 
+
+Infrastructure Funding Statement (IFS) 
+
+Molior’s ‘Residential D evelopment in London Q3 
+
+2025’ report 
+
+Institute for Public Policy Research – homes 
+
+with planning permission not yet built since 2015 
+
+Terraquest research on planning permissions 
+
+since 2015 
+
+Competitions & Market Authority final report –
+
+house building study 
+
+Appendices  Appendix I CIL/s106 allocations & drawdown 
+
+flowchart Appendix I Spending and 
+
+Drawdowns 
+
+Engage with 
+
+S106/CIL Team 
+
+Discuss acceptable 
+
+use of any S106/CIL 
+
+monies 
+
+Use of S106 must be 
+
+prioritized due to 
+
+spend deadline 
+
+Other funding 
+
+options 
+
+Services to 
+
+identify other 
+
+forms of funding, 
+
+not just S106/CIL 
+
+Internal team 
+
+discussion 
+
+Services to take 
+
+that information 
+
+/advice to their 
+
+internal teams, and 
+
+draw up in more 
+
+detail a schedule 
+
+of works 
+
+SAP / ODDR / 
+
+CMDR 
+
+Services to submit 
+
+SAP to S106 Team 
+
+If project is over 
+
+100k/500k, Services 
+
+to start drafting 
+
+ODDR/CMDR and 
+
+send the draft 
+
+ODDR/CMDR to 
+
+s106 team together 
+
+with the SAP 
+
+S106/CIL 
+
+Compliance 
+
+checks 
+
+S106/CIL team to 
+
+perform compliance 
+
+checks / final report 
+
+and detailed 
+
+proposals to mirror 
+
+the initial discussions 
+
+(Step 1) of 
+
+acceptable use of 
+
+S106/CIL 
+
+SAP approval 
+
+S106 team gets 
+
+Director approval 
+
+on SAP report. 
+
+Approved SAP sent 
+
+back to the 
+
+Service. 
+
+Service to finalise 
+
+their ODDR / 
+
+CMDR 
+
+ODDR/CMDR 
+
+Clearance / 
+
+Signing off 
+
+Services to get 
+
+clearance from 
+
+Finance, Legal and 
+
+Procurement Board. 
+
+ODDR/CMDRs get 
+
+signed off under 
+
+delegated authority 
+
+and get published 
+
+Allocations 
+
+Services to inform 
+
+S106 team of the 
+
+ODDR/CMDR 
+
+approval 
+
+S106/CIL team to 
+
+allocate 
+
+requested funding 
+
+to the project on 
+
+Exacom 
+
+Capital 
+
+codes 
+
+Services to 
+
+request Finance 
+
+to create capital 
+
+code for the 
+
+approved 
+
+project 
+
+Start of 
+
+Programme 
+
+/ Spending 
+
+Services to incur 
+
+spending against 
+
+the capital code 
+
+created 
+
+Drawdowns 
+
+Services to 
+
+drawdown from 
+
+the allocated 
+
+funding at the 
+
+end of each 
+
+quarter , each 
+
+time 
+
+expenditure 
+
+occurs. Do not 
+
+wait till year 
+
+end! 
+
+# S106 / CIL - Allocations and Drawdown Process Flowchart 
+
+Drawing up a 
+
+Programme 
+
+1 2
+
+3 4 5
+
+6 7 8
+
+11 9 10 
+
+Glossary 
+
+CIL - Community 
+
+Infrastructure Levy 
+
+S106 - Section 106, 
+
+Town and Country 
+
+Planning Act 1990 
+
+SAP - Summary 
+
+Allocation Proposal 
+
+ODDR - Officer 
+
+Delegated Decision 
+
+Report 
+
+CMDR - Cabinet 
+
+Member Delegated 
+
+Decision Report
