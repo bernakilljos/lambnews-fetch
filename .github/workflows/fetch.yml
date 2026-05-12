@@ -19,6 +19,6 @@ jobs:
       run: |
         git config user.email action@bot
         git config user.name actionbot
-        git add dump
+        git add dump2
         git commit -m '[skip ci] dump' || true
         git push
