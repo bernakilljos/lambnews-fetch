@@ -3,6 +3,8 @@ on: [push, workflow_dispatch]
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
@@ -13,3 +15,10 @@ jobs:
       with:
         name: dump
         path: dump
+    - if: github.actor != 'github-actions[bot]'
+      run: |
+        git config user.email action@bot
+        git config user.name actionbot
+        git add dump
+        git commit -m '[skip ci] dump' || true
+        git push
