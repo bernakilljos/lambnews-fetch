@@ -1,15 +1,10 @@
-import requests,os,traceback
-urls=['https://r.jina.ai/https://moderngov.lambeth.gov.uk/mgCalendarMonthView.aspx?GL=1%26bcr=1%26M=1%26Y=2026',
-'https://r.jina.ai/http://moderngov.lambeth.gov.uk/mgCalendarMonthView.aspx?GL=1%26bcr=1%26M=1%26Y=2026',
-'http://moderngov.lambeth.gov.uk/mgCalendarMonthView.aspx?GL=1&bcr=1&M=1&Y=2026',
-'https://moderngov.lambeth.gov.uk/mgCalendarMonthView.aspx?GL=1&bcr=1&M=1&Y=2026',
-'https://r.jina.ai/https://moderngov.lambeth.gov.uk/mgCalendarMonthView.aspx?GL=1&bcr=1&M=1&Y=2026',
-'https://r.jina.ai/http://moderngov.lambeth.gov.uk/mgCalendarMonthView.aspx?GL=1&bcr=1&M=1&Y=2026',
-'https://r.jina.ai/https://moderngov.lambeth.gov.uk/mgCalendarMonthView.aspx?GL=1%26bcr=1%26date=2026-01-28']
+import requests,os,traceback, re
+pairs=[('licsub','116','17395'),('overview','113','17385'),('planning','600','17465'),('pensions','733','17451'),('corp','115','17474')]
+urls=['https://r.jina.ai/https://moderngov.lambeth.gov.uk/ieListDocuments.aspx?CId='+c+'%26MId='+m for _,c,m in pairs]
 s=requests.Session();os.makedirs('dump',exist_ok=True)
-for i,u in enumerate(urls):
+for (name,c,m),u in zip(pairs,urls):
  try:
-  r=s.get(u,timeout=30,headers={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131.0 Safari/537.36','Accept':'text/html,application/xhtml+xml'})
-  print('OK',u,r.status_code,len(r.content),r.url); open('dump/r%d.txt'%i,'wb').write(r.content)
+  r=s.get(u,timeout=120,headers={'User-Agent':'Mozilla/5.0','Accept':'text/plain'})
+  print('OK',name,r.status_code,len(r.content),r.url); open('dump/'+name+'.txt','wb').write(r.content)
  except Exception as e:
-  print('ERR',u,e); open('dump/r%d.txt'%i,'w').write(str(e))
+  print('ERR',name,e); open('dump/'+name+'.txt','w').write(str(e))
